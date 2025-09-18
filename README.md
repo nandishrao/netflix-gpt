@@ -15,3 +15,5 @@
 -Create a Redux Store with userSlice
 
 
+A Netflix app that is powered with Gemini to recommend movies and series just tell what you feel like and let Gemini recommend you movies and series 
+
